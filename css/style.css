@@ -47,5 +47,10 @@ body{
     }
     
 }
-
-
+.footer-link{
+    text-decoration: none;
+    color: black;
+}
+.footer-link:hover{
+    color: black;
+}
